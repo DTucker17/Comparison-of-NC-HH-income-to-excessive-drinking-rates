@@ -5,9 +5,9 @@ This repository contains instructional materials and datasets concerning a broad
 This repository contains:
 
 Four python notbooks:
-1. Modules detailing how to use the Pandas package for data analysis.
+1. 2 Modules detailing how to use the Pandas package for data analysis.
 2. A module of Python basics.
-3. Modules detailing how to replicated the subset of data.
+3. A Module detailing how to replicated the subset of data.
 
 Two datasets:
 1. Master dataset containing many criteria and covering every county in the US.
