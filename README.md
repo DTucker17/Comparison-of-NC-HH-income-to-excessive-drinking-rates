@@ -24,7 +24,7 @@ The code in the instructional python notebook provides step-by-step instructions
 
 The instructional material on how to use Pandas and the basic functions of Python can be used to allow deeper understanding of the data-subset creation instructions. They provide a more detailed breakdown of how seperate a dataset into subsets.
 
-Lastly, this repository could serve as a baseline for anyone looking to create their own repository. This one was created with minimal knowledge of Github, Python and Anaconda as a whole; therefore, it is necessarily basic in layout and provides an uncomplicated model on which you can build an even better product.![North Carolina Median household income chart](https://user-images.githubusercontent.com/118189262/202750861-062b3036-8025-4247-affb-25af2f6138c5.png=100x20)
+Lastly, this repository could serve as a baseline for anyone looking to create their own repository. This one was created with minimal knowledge of Github, Python and Anaconda as a whole; therefore, it is necessarily basic in layout and provides an uncomplicated model on which you can build an even better product.![North Carolina Median household income chart](https://user-images.githubusercontent.com/118189262/202750861-062b3036-8025-4247-affb-25af2f6138c5.png)
 ![North Carolina excessive drinking chart](https://user-images.githubusercontent.com/118189262/202750862-ce26334a-ae12-4705-9f60-d23e66b219fe.png)
 
 
