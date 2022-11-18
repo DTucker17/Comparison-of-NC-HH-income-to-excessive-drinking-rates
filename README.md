@@ -25,3 +25,4 @@ The code in the instructional python notebook provides step-by-step instructions
 The instructional material on how to use Pandas and the basic functions of Python can be used to allow deeper understanding of the data-subset creation instructions. They provide a more detailed breakdown of how seperate a dataset into subsets.
 
 Lastly, this repository could serve as a baseline for anyone looking to create their own repository. This one was created with minimal knowledge of Github, Python and Anaconda as a whole; therefore, it is necessarily basic in layout and provides an uncomplicated model on which you can build an even better product.
+![Bar-graph](/Datasets/North Carolina excessive drinking chart.png)
