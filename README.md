@@ -14,7 +14,7 @@ This repository contains instructional materials and datasets concerning a broad
 * Subset of data linking excessive drinking habits to median household income.
 * Graphical comparison between stats, organized by county.
 
-**Additional documents**
+**Additional documents:**
 * Licensing agreement.
 * Process documentation (how to replicate our subset).
 * Image folder (storage of images used throughout the repository).
