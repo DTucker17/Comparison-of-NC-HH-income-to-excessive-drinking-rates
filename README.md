@@ -20,7 +20,7 @@ This repository contains instructional materials and datasets concerning a broad
 
 # Instructions for accessing the datasets
 1. Ensure that you have [Anaconda](https://www.anaconda.com/) installed.
-2. Open JupyterLab via Anaconda Navigator.
+2. Open [JupyterLab](https://github.com/DTucker17/Comparison-of-NC-HH-income-to-excessive-drinking-rates/blob/main/Images/Anaconda%20nav%20page.png) via Anaconda Navigator.
 3. Copy the files in the Data folder into your own directory and open them in JupyterLab.
 
 # Where did the repository come from?
