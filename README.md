@@ -8,7 +8,6 @@ This repository contains instructional materials and datasets concerning a broad
 1. Module detailing how to use the Pandas package for data analysis. (pt1)
 2. Module detailing how to use the Pandas package for data analysis. (pt2)
 3. A module of Python basics.
-4. A Module detailing how to replicated the subset of data.
 
 **Datasets:**
 1. Master dataset containing many criteria and covering every county in the US.
@@ -17,6 +16,7 @@ This repository contains instructional materials and datasets concerning a broad
 
 **Additional documents**
 1. Licensing agreement.
+2. Process documentation.
 
 # Where did the repository come from?
 The overall dataset, and instructional material covering Pandas and Python, was contributed by the professor of the class. The data-subset, graphics and process documentation were created by the student.
