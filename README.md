@@ -17,6 +17,7 @@ This repository contains instructional materials and datasets concerning a broad
 **Additional documents**
 * Licensing agreement.
 * Process documentation.
+* Image folder.
 
 # Instructions for accessing the datasets
 1. Ensure that you have [Anaconda](https://www.anaconda.com/) installed.
