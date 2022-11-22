@@ -16,8 +16,8 @@ This repository contains instructional materials and datasets concerning a broad
 
 **Additional documents**
 * Licensing agreement.
-* Process documentation.
-* Image folder.
+* Process documentation (how to replicate our subset).
+* Image folder (storage of images used throughout the repository).
 
 # Instructions for accessing the datasets
 1. Ensure that you have [Anaconda](https://www.anaconda.com/) installed.
