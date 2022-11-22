@@ -1,4 +1,4 @@
-# Does Median house-hold income have any bearing on the rate people drink to excess?
+# Does Median house-hold income impact the rate of excess drinking?
 # Introduction
 This repository contains instructional materials and datasets concerning a broad spectrum of public information ranging from public health to socio-economic status. It was created as a product for an ENGL105 project at the University of North Carolina at Chapel Hill.
 
