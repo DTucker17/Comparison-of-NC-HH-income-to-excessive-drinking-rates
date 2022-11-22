@@ -5,18 +5,23 @@ This repository contains instructional materials and datasets concerning a broad
 **Within the repository there are:**
 
 **Instructional python notebooks:**
-1. Module detailing how to use the Pandas package for data analysis. (pt1)
-2. Module detailing how to use the Pandas package for data analysis. (pt2)
-3. A module of Python basics.
+* Module detailing how to use the Pandas package for data analysis. (pt1)
+* Module detailing how to use the Pandas package for data analysis. (pt2)
+* A module of Python basics.
 
 **Datasets:**
-1. Master dataset containing many criteria and covering every county in the US.
-2. Subset of data linking excessive drinking habits to median household income.
-3. Graphical comparison between stats, organized by county.
+* Master dataset containing many criteria and covering every county in the US.
+* Subset of data linking excessive drinking habits to median household income.
+* Graphical comparison between stats, organized by county.
 
 **Additional documents**
-1. Licensing agreement.
-2. Process documentation.
+* Licensing agreement.
+* Process documentation.
+
+# Instructions for accessing the datasets
+1. Ensure that you have [Anaconda](https://www.anaconda.com/) installed.
+2. Open JupyterLab via Anaconda Navigator.
+3. Copy the files in the Data folder into your own directory and open them in JupyterLab.
 
 # Where did the repository come from?
 The overall dataset, and instructional material covering Pandas and Python, was contributed by the professor of the class. The data-subset, graphics and process documentation were created by the student.
